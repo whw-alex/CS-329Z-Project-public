@@ -44,7 +44,7 @@ This public repository contains no SWE-chat conversation text. It keeps the code
 
 The prepared cases (`case-*.json`), the per-case predictions (`result-*.json`, `baseline-*.json`), the relabeling episodes and the run logs are not included, because they contain verbatim conversation text. Some reports refer to these files. To rebuild the cases, download the raw data and run `preference_agent.relabel_cases` as described in [preference-agent/README.md](preference-agent/README.md).
 
-`demo/` contains the template and the build script for the midpoint demo page. The script reads case and result files, so it works only after you rebuild an evaluation folder.
+`report/main.tex` is the LaTeX source of the midway report. It uses the ICLR 2025 style files, which are not included.
 
 ## Data license
 
