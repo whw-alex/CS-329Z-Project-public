@@ -1,0 +1,113 @@
+{
+  "cases": 93,
+  "status": {
+    "old": {
+      "ok": 93
+    },
+    "scoped": {
+      "ok": 92,
+      "memory_failed": 1
+    }
+  },
+  "all_valid": {
+    "old": {
+      "samples": 93,
+      "pushback_rate": 0.21505376344086022,
+      "mean_prediction": 0.37322580645161285,
+      "auroc": 0.4674657534246575,
+      "auprc": 0.21350898378086008,
+      "brier": 0.28042258064516123,
+      "log_loss": 0.8022036724809233,
+      "accuracy_at_0_5": 0.6021505376344086,
+      "f1_at_0_5": 0.24489795918367346,
+      "correct": 56,
+      "tp": 6,
+      "fp": 23,
+      "fn": 14,
+      "tn": 50,
+      "precision": 0.20689655172413793,
+      "recall": 0.3
+    },
+    "scoped": {
+      "samples": 92,
+      "pushback_rate": 0.21739130434782608,
+      "mean_prediction": 0.3425,
+      "auroc": 0.4565972222222222,
+      "auprc": 0.25610363475201664,
+      "brier": 0.2522076086956521,
+      "log_loss": 0.724169928463288,
+      "accuracy_at_0_5": 0.6195652173913043,
+      "f1_at_0_5": 0.2222222222222222,
+      "correct": 57,
+      "tp": 5,
+      "fp": 20,
+      "fn": 15,
+      "tn": 52,
+      "precision": 0.2,
+      "recall": 0.25
+    }
+  },
+  "common": {
+    "cases": 92,
+    "metrics": {
+      "old": {
+        "samples": 92,
+        "pushback_rate": 0.21739130434782608,
+        "mean_prediction": 0.37641304347826077,
+        "auroc": 0.4607638888888889,
+        "auprc": 0.2136310839029602,
+        "brier": 0.28340108695652166,
+        "log_loss": 0.8100169557802913,
+        "accuracy_at_0_5": 0.5978260869565217,
+        "f1_at_0_5": 0.24489795918367346,
+        "correct": 55,
+        "tp": 6,
+        "fp": 23,
+        "fn": 14,
+        "tn": 49,
+        "precision": 0.20689655172413793,
+        "recall": 0.3
+      },
+      "scoped": {
+        "samples": 92,
+        "pushback_rate": 0.21739130434782608,
+        "mean_prediction": 0.3425,
+        "auroc": 0.4565972222222222,
+        "auprc": 0.25610363475201664,
+        "brier": 0.2522076086956521,
+        "log_loss": 0.724169928463288,
+        "accuracy_at_0_5": 0.6195652173913043,
+        "f1_at_0_5": 0.2222222222222222,
+        "correct": 57,
+        "tp": 5,
+        "fp": 20,
+        "fn": 15,
+        "tn": 52,
+        "precision": 0.2,
+        "recall": 0.25
+      }
+    }
+  },
+  "recovered_only": {
+    "samples": 8,
+    "pushback_rate": 0.125,
+    "mean_prediction": 0.31999999999999995,
+    "auroc": 0.4285714285714286,
+    "auprc": 0.2,
+    "brier": 0.24372499999999997,
+    "log_loss": 0.675855043904173,
+    "accuracy_at_0_5": 0.625,
+    "f1_at_0_5": 0.0,
+    "correct": 5,
+    "tp": 0,
+    "fp": 2,
+    "fn": 1,
+    "tn": 5,
+    "precision": 0.0,
+    "recall": 0.0
+  },
+  "correct_over_all_attempts": {
+    "old": 0.6021505376344086,
+    "scoped": 0.6129032258064516
+  }
+}

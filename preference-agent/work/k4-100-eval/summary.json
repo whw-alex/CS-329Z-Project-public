@@ -1,0 +1,48 @@
+{
+  "cases": 93,
+  "complete_pairs": 90,
+  "status_counts": {
+    "ok": 90,
+    "stopped": 3
+  },
+  "repositories": 50,
+  "metrics": {
+    "no_memory": {
+      "samples": 90,
+      "pushback_rate": 0.2222222222222222,
+      "mean_prediction": 0.40244444444444444,
+      "auroc": 0.4446428571428572,
+      "auprc": 0.212813323025509,
+      "brier": 0.30126,
+      "log_loss": 0.8641362520919155,
+      "accuracy_at_0_5": 0.5666666666666667,
+      "f1_at_0_5": 0.2641509433962264
+    },
+    "agent": {
+      "samples": 90,
+      "pushback_rate": 0.2222222222222222,
+      "mean_prediction": 0.3471111111111111,
+      "auroc": 0.5057142857142857,
+      "auprc": 0.24375353707888148,
+      "brier": 0.24665555555555557,
+      "log_loss": 0.703019907641164,
+      "accuracy_at_0_5": 0.6444444444444445,
+      "f1_at_0_5": 0.2727272727272727
+    }
+  },
+  "paired_brier": {
+    "no_memory_minus_agent": 0.05460444444444444,
+    "positive_favors": "agent",
+    "repository_bootstrap_ci95": [
+      0.015760188563800206,
+      0.09570641176470585
+    ]
+  },
+  "agent_diagnostics": {
+    "first_pass_success": 90,
+    "cases_with_active_rules": 33,
+    "cases_citing_history": 43,
+    "mean_get_episode_reads": 1.0777777777777777
+  },
+  "total_stage_calls": 949
+}

@@ -1,0 +1,7 @@
+{
+  "history": [
+    {"id": "e1", "repo": "example", "order": 1, "context": "Fix the parser and run tests", "agent_turn": "The parser is fixed; I did not run tests", "follow_up": "Please run the tests before saying this is done", "label": "pushback"},
+    {"id": "e2", "repo": "example", "order": 2, "context": "Fix the serializer", "agent_turn": "Done, untested", "follow_up": "Again, run the relevant tests before reporting completion", "label": "pushback"}
+  ],
+  "target": {"repo": "example", "target_order": 3, "context": "Fix the parser and run tests", "response": "The fix is complete, but untested."}
+}

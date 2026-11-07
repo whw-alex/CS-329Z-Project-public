@@ -1,0 +1,352 @@
+{
+  "source": "work/k4-100/labels.csv",
+  "mode": "history",
+  "n": 1089,
+  "seed": 329,
+  "k": 4,
+  "history_sessions_by_repo": {
+    "BbrSofiane/sof-pi": [
+      "019f1418-ec32-791c-94fe-98ce88f2a49d",
+      "019f141c-4343-78ba-a347-4b458641af99",
+      "019f141d-035e-7d43-9c12-76511890dbee",
+      "019f1404-872e-7930-bda4-2c3c609e634b"
+    ],
+    "ChetanReddyC/Shila-Murti": [
+      "73f1619c-2f9b-49f2-8137-9733fa42fc7a",
+      "fbf8a980-1c70-4d54-bd2e-4b0518e8d099",
+      "0c87872f-9b97-490f-96b0-d83802090840",
+      "1a5567dc-a1de-463b-8cf7-4481bc2b6c05"
+    ],
+    "Diogenesoftoronto/keating": [
+      "1523f2cd-2a23-4d42-a81f-a6ef002bb764",
+      "0862648d-aa7a-4b70-837f-5f3b8d8a99f8",
+      "8b259f67-2069-44df-96e6-5ac05c22b5b3",
+      "bb04cf16-d6f2-4e1a-a1e4-4d16e78cc7e2"
+    ],
+    "DrDonik/ai-recipe-planner": [
+      "d779c2d4-e27c-474f-8f70-85101bf2a9f0",
+      "2b4f1a79-4f51-43c9-9404-b7301d2038e4",
+      "427e6344-9250-4ed0-aa0d-1affd97759f2",
+      "7199aa14-09e5-4549-ab75-5345d738a1f4"
+    ],
+    "ElixirTrials/medgemma-hackathon": [
+      "8000ab07-b7ed-4807-9480-552b38ab70a2",
+      "ce5385a7-1d35-4fe6-916c-ba8444f6c980",
+      "1b95d379-4f11-4d74-a567-07fd734105c8",
+      "dc4c0931-2d7d-45bb-8f84-e5a7aac83f2f"
+    ],
+    "EntityProcess/agentv": [
+      "f6b7329a-914c-4f62-8090-4e29b032b173",
+      "2dd48f89-3552-42c7-9b15-f8119890ecb3",
+      "acc53d32-5580-4747-9273-e2acff2ba566",
+      "019ed50c-2fb3-7002-a384-360bea6e7f04"
+    ],
+    "JanDeDobbeleer/oh-my-posh": [
+      "8521e3ab-d00f-4fdc-b013-609c00860cc3",
+      "597d17fc-8ee0-4485-a3a2-e0cc578729ef",
+      "88e16f61-d1b7-47a3-84f1-057e0f96521a",
+      "5d961c1e-4371-4a75-a5b1-e8bc7c56d71e"
+    ],
+    "Lightprotocol/light-protocol": [
+      "23d79622-85e3-4884-8002-e422e8552c8f",
+      "64568731-ddbb-4092-bc6f-b1f4785c79c6",
+      "0ef7c7a2-ddd7-4d65-b59b-c0a965ebec25",
+      "345198a8-d7c5-4d5d-9be1-c9879d95706c"
+    ],
+    "MandavkarPranjal/prsui": [
+      "019f711c-367a-706b-8cab-4b4b03fbde26",
+      "019f7526-e56b-7b5f-a63c-68bff34eb1f1",
+      "019f7638-5fdb-70a3-94d5-328d4c272686",
+      "019f8530-9ff1-7009-b830-7aab77a2bac8"
+    ],
+    "PJensen/JSHack": [
+      "019e663e-8461-70b3-bac7-6096654919df",
+      "019e6936-63a8-7bf1-8e17-fd8bf440608e",
+      "019e6e52-3049-7291-ad40-b2eaa627c3cc",
+      "019e73e9-acfc-7662-a61d-be3fe38dc3d8"
+    ],
+    "PackmindHub/context-evaluator": [
+      "00acd976-784c-4077-95cd-19aa1b51739b",
+      "0fccf939-a272-4ef8-a9d0-01c7df276089",
+      "77e148b8-d479-4609-8980-471c85003c07",
+      "4294a5e3-385b-40c0-bee9-90c2eca56689"
+    ],
+    "SMK1085/paigasus-helikon": [
+      "f1524f9a-e8ab-47e9-be2a-3599d89136df",
+      "1ee872fa-5561-4e3d-979d-eb6039a0c101",
+      "5996175a-a4b4-424d-ad18-d82534fe254e",
+      "c436ccdf-cdfd-494d-9715-9e329a393568"
+    ],
+    "Safecast/safecast-map-MCP": [
+      "b18f7e10-3ef7-4a1a-a610-3c3a57cd3bd2",
+      "20f9319f-a0e1-43f7-92da-b744b96c95d9",
+      "960e1199-4c77-4e97-9fa1-33fb9498a0a9",
+      "b6847497-f5f3-4b52-a8dd-39eafaa75c69"
+    ],
+    "ababushkin/drain-cycle": [
+      "e2bc2542-61e0-4fab-8d99-ec7ad321b101",
+      "7ced9f48-65e3-471b-a25d-f3c0956ce6db",
+      "c64e8c86-0026-4747-9c9e-16904f75fe51",
+      "5ea0627e-adef-429a-beb9-50a217e37fc3"
+    ],
+    "armelhbobdad/bmad-module-skill-forge": [
+      "9690f538-1d94-4ce8-9da5-f5de35921bb4",
+      "85e00622-177a-480b-9251-5fac6210171e",
+      "cd39fc70-a2b5-4a57-8ef1-a353e62968be",
+      "6fa436f2-a3cf-4eb7-99fd-260c431f321e"
+    ],
+    "blackgirlbytes/planetfall-seed-signalkit": [
+      "bf0d7da1-e260-41cb-a27d-20b53359d790",
+      "99fd37cf-9dfa-4a2d-b1f8-17dc7da61d9d",
+      "1724749a-c47c-4c19-b52b-6858f322d551",
+      "b3b3fb25-90c3-4a42-bd2c-c831f432c398"
+    ],
+    "blittle/pressy": [
+      "bbcf6632-e298-4d78-8891-fa85cc3af9bd",
+      "7760d207-3d6e-416f-8944-7793cfe648ff",
+      "dbd64d5c-c7b9-462f-98bd-540026a588fa",
+      "004407cd-4bb6-40a4-9ab1-445b085e4dfe"
+    ],
+    "browserbase/stagehand": [
+      "a9d6f7c7-89c6-41de-8120-06c757dac5d3",
+      "f68754b7-490d-466c-a48f-34d9c0d48ccc",
+      "70c8a7c3-8dc1-4ffb-9a61-ec2bd8dab837",
+      "ca064e17-91c4-446c-9ec5-ff09d622d962"
+    ],
+    "chikachow/cyspbot": [
+      "019f046f-d5a9-7e10-bb70-dc7c002d777d",
+      "019f065f-8537-77a3-9e46-4075c1fb8377",
+      "019f046d-f5fa-75c3-98e4-fa591d856a51",
+      "019f066d-6aab-7d63-9173-17695f261785"
+    ],
+    "cyyeh/duckdb-data-agent": [
+      "789b84b4-7e4a-454d-9e9b-997ee00098aa",
+      "015f5391-b36a-4a9e-b102-dd70789669c1",
+      "24d44b4b-7913-41a2-86d6-4f04e0ce8f68",
+      "680676e1-fe43-4871-b5db-f267a735f378"
+    ],
+    "dpiatkowski/inception-engine": [
+      "12e65d16-e84b-4760-8077-2bdc5441c7cb",
+      "49cc4396-8b52-480d-9dd3-b54698aa924c",
+      "41bf4f33-7f4f-4139-8618-37d18128991c",
+      "3e6921f4-1afb-4713-a9f0-a51d11824975"
+    ],
+    "ebridges/wakil": [
+      "9b5d3f93-aaf0-4da4-b663-81a828b2ccb9",
+      "23a47c01-9864-400e-b831-5c3e3fd6994d",
+      "cf777bf3-daa2-4c94-a23b-f7f23c917f52",
+      "5bea7345-5de7-4124-b605-8ba07bd91721"
+    ],
+    "fdelbrayelle/ai-watchtower": [
+      "76a527cf-2861-4f02-b7f7-54851892b720",
+      "b44c3e44-7239-46a5-88a4-55615796fb54",
+      "d10ed9bc-3912-4a6c-b71c-e7d67f84945e",
+      "04d631af-dfa9-4d0f-8e72-51096a63845f"
+    ],
+    "five2seven/stackmap": [
+      "019fab20-4a1e-70e3-a467-a29016081e71",
+      "019fbf33-a990-7823-b620-d9e1e9ff94a5",
+      "019fbf97-c63e-7bc3-b164-2a5ac843a56b",
+      "019fc3d5-0a98-7ac2-8176-c4c609963d6f"
+    ],
+    "fogodev/ars-ui": [
+      "019df593-df56-7f01-9232-d963a5b545ef",
+      "da052e33-5516-4b1c-b667-6e62298a2ad4",
+      "9d4f251b-a7b5-491d-b107-5137af2fa959",
+      "e797994f-9915-4551-9b97-73a56771e5d9"
+    ],
+    "hirakiuc/gh-orbit": [
+      "8a1e1550-97cc-45c4-85f2-40538d20a7c2",
+      "50fec202-4a39-46a0-980e-d91507fed163",
+      "5180c3f8-2838-42a7-9699-5c93f026dbd8",
+      "ff6d7de8-8956-473a-af4a-8e9c8daa31c1"
+    ],
+    "hutusi/amytis": [
+      "22db4cc7-3a8d-47f9-8aee-843343c96c31",
+      "3b6cb501-a37a-462a-9683-9fa6ca43f894",
+      "63dfa74a-67ff-4264-a147-b2db99bebd31",
+      "103a94c7-40d8-413a-aef8-c6b19a19ce01"
+    ],
+    "integrio-intropy/intropy-cli": [
+      "a607abf7-581b-4c9d-973d-efef7ee37134",
+      "34dcd7fc-fdd3-4d3f-a711-ce215eef8fd9",
+      "4dedc3c9-5947-4f8b-8cf5-c243f88e7914",
+      "381ab6b7-766c-4045-adf9-095a947ec0a3"
+    ],
+    "itsmaleen/merry": [
+      "2bbc644e-4302-4967-8dca-f6cc8cafb0e1",
+      "7dd1a321-223e-4b1f-a56f-4bee537cdfad",
+      "8bab940d-bd75-4485-9708-c34c27cd95c4",
+      "e56efd05-1c6f-45f5-b6fc-dd3b4628bdaf"
+    ],
+    "jdx/mise": [
+      "019f1fdd-25d6-7772-a211-4d2490625736",
+      "019f1fd6-f9a0-7e13-8a8f-cbf5a3fd10d1",
+      "019f1fee-351b-7f61-b652-0d62cd621721",
+      "019f2007-fbdf-72d2-a3fa-63558f33bcdd"
+    ],
+    "lgulliver/derrick": [
+      "92384dcd-7850-4a1c-b4c8-6caf57afd1fa",
+      "afe85386-afc1-42f7-8060-dafb2e333f54",
+      "b4f42fa8-29e4-47a2-bc1a-a917e9d5170c",
+      "042711ea-650f-4a43-b1b5-63cd6da52993"
+    ],
+    "lorr1/traffic-simulator": [
+      "49ce3ec4-3d1b-4319-8dfe-d095902a8555",
+      "4db25d43-df24-424f-9d0b-a0fced868c13",
+      "86604895-4b88-4f1f-874e-909f96961278",
+      "b52f687e-2dcb-4c52-a576-7c04589c874f"
+    ],
+    "malpercio-dev/ezpds": [
+      "2353e2db-3e28-4332-bef9-02c20f22e4eb",
+      "51edb752-2d71-4f7f-ae69-aa630ac6a6fd",
+      "293ae668-b0ae-4662-8dba-103ab14b0030",
+      "agent-ac98429"
+    ],
+    "marcus-sa/osabio": [
+      "b2fed439-f101-43f3-98f5-76aeb201af1d",
+      "575d0a3b-f615-45c5-a0c5-fc246e13ec41",
+      "dbdd0602-50e5-4626-8b59-404114088b43",
+      "da17ba95-666c-4181-ab52-ac0a8c592153"
+    ],
+    "mgorabbani/PropContext": [
+      "b531d592-e688-4b76-bf9d-1bec02d0433e",
+      "4fb7a68c-24dd-4fc2-84fd-94b774039cf2",
+      "92a01305-2d77-4e28-b2e9-1e84559619e7",
+      "43c29fe5-0b12-4bc4-999f-8f812e104c8b"
+    ],
+    "moltis-org/moltis": [
+      "6ce656a2-a6ab-435f-aab9-e5eae5a484c0",
+      "ffe6a727-d13c-409c-9a1d-81538d8916e0",
+      "336722ff-bab8-42b8-b5cc-1496eaab8ae4",
+      "41cda726-51e1-4a6b-8ce7-2682c2bec6fc"
+    ],
+    "niaklabs/nekazaria-demo": [
+      "32bd9038-0a4f-45cc-8804-f757c2e5e6e9",
+      "3695be80-8475-4f25-87a8-308af071bbef",
+      "f0269f2b-088f-45c1-9d85-eecbaba30409",
+      "c0bd5d40-c3ca-47f9-ac8b-f45fd7afefbd"
+    ],
+    "osabiohq/osabio": [
+      "f76a52b4-3671-4a88-88a7-f059cb73cb1f",
+      "0da184be-b128-475f-a3fd-61555f0ae9b7",
+      "7c94e08d-c64a-4658-8938-ba4bc8aab78d",
+      "219f74ed-154b-4ee7-903f-894707bf598a"
+    ],
+    "s4lly/splitzy": [
+      "055f3461-aec1-4006-9835-40dabc265e20",
+      "87c87d48-1226-41d4-931d-bce986ad734a",
+      "6813eb4b-0188-4fbe-9f54-bb98534796ff",
+      "a3cffbf7-cc64-497c-b2bc-d3e7ae71fdd5"
+    ],
+    "samratjp/moltis": [
+      "112a4790-4715-4d04-a15c-c93734a1c531",
+      "be03c541-9e0b-4c18-960d-8c19c4d5a463",
+      "95cc6390-f70d-4f95-803e-b0c8a7c7648e",
+      "affa34d2-6b21-45bc-afd6-afd5ec882144"
+    ],
+    "schmalle/secman": [
+      "6f050d99-3b6d-4f14-a7e8-8197c22e341e",
+      "9ee7fcfa-9267-4874-b1f0-59286defcd36",
+      "b8158bec-a768-425e-9f2c-17c660ac784d",
+      "c25996ae-b8fb-439f-9b33-eed28e2fb984"
+    ],
+    "sorrell/webhook-tui": [
+      "4a9c72e2-8795-4a9a-8675-9dfd56d4ba02",
+      "efab506c-ee52-4b30-8e31-860cd07b76f4",
+      "4f396f39-fa53-4de6-a624-315ebd7715a3",
+      "1c761fb6-3e30-4f90-b933-a964073d6ee1"
+    ],
+    "thedannywahl/pantoken": [
+      "0b8e1db2-d0e7-440b-ad45-98d46508e04c",
+      "4f3348ab-1f38-41f4-a9a1-525113466cf9",
+      "b23a51be-7c3d-47d9-91dd-ad98fbc5ddc0",
+      "64071f58-ee02-42d6-a6ac-85116a5814a6"
+    ],
+    "thieso2/Sandcastle": [
+      "27047749-2364-43d7-8ea6-7da6fdfc8f74",
+      "9d43ebb0-29c6-4ae3-b7d4-589a99b85792",
+      "e8d3a73e-71d2-4387-9016-57ac1daeea00",
+      "6c24d9a0-0162-4217-b1bd-449cb8913e1e"
+    ],
+    "timelabs-npo/rhea-project": [
+      "909713a1-e305-4848-97bf-28c9ad8a9cce",
+      "5e8ca6db-c55e-4d6d-aa15-4bc9fb29a388",
+      "2f2152e4-6e52-4c96-9711-cd782a611c9b",
+      "2a84a5a3-0636-4047-aa95-342b1ebe7d83"
+    ],
+    "tkersh/echobase": [
+      "125a5e4c-4f53-4901-99a7-c7bb5188c7e9",
+      "f6dbfb37-42dc-4ff1-8065-f8c055100698",
+      "c4e37c2a-be6f-45cf-86f4-16041685ad20",
+      "e3156a2c-76c8-4699-a360-ff13313dd194"
+    ],
+    "tslateman/shipyard": [
+      "33788091-2723-48be-bc87-15f09c562284",
+      "baaf0f46-6eaa-4bb3-bea0-209ed86465da",
+      "b2a8d762-0d2e-48ed-b603-82dcee24a682",
+      "86f1d5c2-9f9f-43c8-b095-05cdf77df0c6"
+    ],
+    "tuist/tuist": [
+      "cd9cdba4-015a-4720-9c9e-0558f766f152",
+      "b964f7f0-bb15-46c7-a140-536ef7f65542",
+      "04fa9f64-ad1d-4155-a019-3cd198baa4c5",
+      "c62c0ce6-7e94-4f0a-935c-c0a360981872"
+    ],
+    "user1303836/spectraplex": [
+      "e9b2027f-0f4a-42ff-8ea8-0ac9c14a6f1a",
+      "19d7c1c4-918a-46a1-bf5a-2d7a73d9d835",
+      "61eae488-9bdf-4430-91a9-bb21e118510b",
+      "867168c1-df06-448a-bd4a-367da67a2b69"
+    ],
+    "wanshicheng/duckdb-data-agent": [
+      "fb3e9437-7ba6-46b7-b4ab-a1626ac4dd10",
+      "8715a420-3447-4a84-b5e9-a1aae40dcd24",
+      "d56f3c85-e505-4496-82cf-60534fa9cd02",
+      "24697137-e990-4015-9647-ffd82579d133"
+    ],
+    "wodsmith/thewodapp": [
+      "6c2e4d72-9227-48c5-818b-34331110fdcd",
+      "ee520aa7-a751-4c55-801e-5de0607a85b0",
+      "bbaf5868-fac4-4d87-9aab-98e3020b6572",
+      "54d68864-f678-4735-8e4f-85e47acb7433"
+    ],
+    "yash-learner/care_fe": [
+      "19784a26-fdc4-4f3d-9e23-790b05aad54a",
+      "3c6b1c12-d3ca-43d2-a3e2-27334eee1ce4",
+      "47fd1637-ca3b-4cc8-aa4d-9c6d9dea4b57",
+      "0507065e-aa58-4a4e-8fc3-db91b2398e49"
+    ],
+    "yyopc/yyork": [
+      "019e598b-6676-7712-ac76-d6c5efd2fcba",
+      "019e5996-1247-75a2-80eb-245c129968bb",
+      "019e599f-ce5d-7253-9aff-3c5b8672b78a",
+      "019e5a00-61bc-7920-81d8-4d6397d80c88"
+    ],
+    "zchee/agent": [
+      "019d52c4-e2cc-7601-bded-51eb74fef861",
+      "019d52c8-ef0c-7de2-9b06-8205aa4240c5",
+      "019d52c8-f233-7fe0-b582-d5810b5b0fb8",
+      "019d52cd-bc6b-7a50-a4c3-b1c1134357a6"
+    ],
+    "zeodotdev/zeo": [
+      "ab16da60-d461-4e0f-8859-898be0d369b1",
+      "70300aed-a20f-4bd7-83a2-e438886570fa",
+      "a1026d0c-79b5-4f2b-aa31-3a04be917c54",
+      "c5ac9990-eb4b-4087-a1e4-127782e8505d"
+    ]
+  },
+  "skipped": [],
+  "limits": {
+    "earlier_messages": 10,
+    "earlier_chars": 300,
+    "previous_reply_chars": 1500,
+    "request_chars": 2000,
+    "agent_text_chars": 800,
+    "last_agent_text_chars": 4000,
+    "tool_chars": 200,
+    "max_steps": 40,
+    "reply_chars": 3000
+  },
+  "prompt": "prompts/relabel_pushback.md"
+}

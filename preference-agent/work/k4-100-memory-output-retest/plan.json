@@ -1,0 +1,65 @@
+{
+  "model": "openai/gpt-6-luna",
+  "jobs": [
+    {
+      "group": 6,
+      "case": 78,
+      "cases": [
+        78,
+        85
+      ],
+      "repo": "fogodev/ars-ui",
+      "previous_error": "AdapterParseError",
+      "previous_calls": 3
+    },
+    {
+      "group": 7,
+      "case": 31,
+      "cases": [
+        31,
+        49,
+        70
+      ],
+      "repo": "PJensen/JSHack",
+      "previous_error": "AdapterParseError",
+      "previous_calls": 1
+    },
+    {
+      "group": 10,
+      "case": 83,
+      "cases": [
+        83
+      ],
+      "repo": "timelabs-npo/rhea-project",
+      "previous_error": "AdapterParseError",
+      "previous_calls": 6
+    },
+    {
+      "group": 16,
+      "case": 32,
+      "cases": [
+        32,
+        75
+      ],
+      "repo": "five2seven/stackmap",
+      "previous_error": "AdapterParseError",
+      "previous_calls": 1
+    },
+    {
+      "group": 39,
+      "case": 52,
+      "cases": [
+        52
+      ],
+      "repo": "ebridges/wakil",
+      "previous_error": "AdapterParseError",
+      "previous_calls": 2
+    }
+  ],
+  "memory_max_tokens": 8192,
+  "base_forecast_max_tokens": 2048,
+  "max_memory_calls_per_group": 60,
+  "split_retry_depth": 1,
+  "prediction_calls": 0,
+  "note": "Only five previously failed memory builds. Original full evaluation is unchanged."
+}

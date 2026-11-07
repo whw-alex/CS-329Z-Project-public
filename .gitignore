@@ -1,0 +1,19 @@
+.venv-swechat/
+data/raw/
+data/.hf-xet/
+__pycache__/
+*.pyc
+.env
+
+# Local credentials; commit only the empty template.
+.env.*
+!.env.example
+
+# Generated datasets and executed notebooks (source metadata remains tracked).
+/data/repo_split.parquet
+/data/targets.parquet
+/data/turns_compact.parquet
+/data/target_flags.parquet
+/eda.executed.ipynb
+/work/
+/outputs/

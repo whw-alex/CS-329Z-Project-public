@@ -1,0 +1,94 @@
+case,repo,label,t1,status,no_memory_p,agent_p,no_memory_brier,agent_brier,no_memory_pred,agent_pred,active_rules,candidate_rules,agent_tools,agent_cited,agent_first_pass,stage_calls,seconds
+case-0001.json,wanshicheng/duckdb-data-agent,no_pushback,0,ok,0.36,0.58,0.1296,0.3364,0,1,0,1,"['search_history', 'get_episode', 'inspect_current_activity']",['24697137-e990-4015-9647-ffd82579d133:41'],True,13,50.1
+case-0002.json,osabiohq/osabio,no_pushback,0,ok,0.91,0.82,0.8281000000000001,0.6723999999999999,1,1,0,2,"['search_history', 'inspect_current_activity', 'get_episode']",[],True,10,37.0
+case-0003.json,wanshicheng/duckdb-data-agent,no_pushback,0,ok,0.12,0.12,0.0144,0.0144,0,0,0,1,"['search_history', 'get_episode', 'search_history']",[],True,7,25.2
+case-0004.json,Diogenesoftoronto/keating,no_pushback,0,ok,0.82,0.55,0.6723999999999999,0.30250000000000005,1,1,1,3,"['search_history', 'get_episode', 'get_episode']","['bb04cf16-d6f2-4e1a-a1e4-4d16e78cc7e2:53', '0862648d-aa7a-4b70-837f-5f3b8d8a99f8:104']",True,16,91.9
+case-0005.json,itsmaleen/merry,pushback,1,ok,0.04,0.08,0.9216,0.8464,0,0,2,5,"['search_history', 'get_episode', 'get_episode']","['2bbc644e-4302-4967-8dca-f6cc8cafb0e1:67', '8bab940d-bd75-4485-9708-c34c27cd95c4:159']",True,14,61.9
+case-0006.json,itsmaleen/merry,no_pushback,0,ok,0.88,0.32,0.7744,0.1024,1,0,2,5,"['search_history', 'get_episode']",['2bbc644e-4302-4967-8dca-f6cc8cafb0e1:43'],True,7,34.1
+case-0007.json,wodsmith/thewodapp,no_pushback,0,ok,0.78,0.78,0.6084,0.6084,1,1,1,3,"['search_history', 'search_history']",[],True,15,66.8
+case-0008.json,hutusi/amytis,pushback,1,ok,0.14,0.18,0.7395999999999999,0.6724000000000001,0,0,1,1,"['inspect_current_activity', 'search_history', 'get_episode']",['3b6cb501-a37a-462a-9683-9fa6ca43f894:144'],True,17,94.2
+case-0009.json,jdx/mise,no_pushback,0,ok,0.32,0.2,0.1024,0.04000000000000001,0,0,1,1,"['search_history', 'get_episode']",['019f2007-fbdf-72d2-a3fa-63558f33bcdd:813'],True,16,79.4
+case-0010.json,wodsmith/thewodapp,pushback,1,ok,0.08,0.12,0.8464,0.7744,0,0,1,3,['search_history'],[],True,5,20.2
+case-0011.json,wanshicheng/duckdb-data-agent,no_pushback,0,ok,0.42,0.36,0.17639999999999997,0.1296,0,0,0,1,"['search_history', 'get_episode', 'search_history', 'search_preferences']",['d56f3c85-e505-4496-82cf-60534fa9cd02:127'],True,8,38.1
+case-0012.json,blackgirlbytes/planetfall-seed-signalkit,no_pushback,0,ok,0.12,0.1,0.0144,0.010000000000000002,0,0,0,0,[],[],True,4,17.5
+case-0013.json,mgorabbani/PropContext,no_pushback,0,ok,0.25,0.08,0.0625,0.0064,0,0,0,2,"['search_history', 'get_episode', 'search_history']",[],True,16,58.3
+case-0014.json,browserbase/stagehand,pushback,1,ok,0.68,0.27,0.10239999999999996,0.5328999999999999,1,0,0,2,"['search_history', 'get_episode', 'get_episode', 'inspect_current_activity']","['ca064e17-91c4-446c-9ec5-ff09d622d962:428', 'a9d6f7c7-89c6-41de-8120-06c757dac5d3:132']",True,16,57.7
+case-0015.json,itsmaleen/merry,pushback,1,ok,0.44,0.4,0.31360000000000005,0.36,0,0,2,5,"['search_history', 'search_history']",[],True,6,26.2
+case-0016.json,ChetanReddyC/Shila-Murti,no_pushback,0,ok,0.14,0.27,0.019600000000000003,0.0729,0,0,0,3,"['search_history', 'search_history', 'get_episode', 'search_history']",[],True,11,54.8
+case-0017.json,cyyeh/duckdb-data-agent,no_pushback,0,ok,0.43,0.4,0.18489999999999998,0.16000000000000003,0,0,0,0,"['search_history', 'search_history', 'get_episode', 'get_episode']","['24d44b4b-7913-41a2-86d6-4f04e0ce8f68:330', '24d44b4b-7913-41a2-86d6-4f04e0ce8f68:374']",True,12,49.3
+case-0018.json,chikachow/cyspbot,pushback,1,ok,0.1,0.12,0.81,0.7744,0,0,0,1,"['search_history', 'get_episode', 'get_episode']",[],True,9,43.9
+case-0019.json,user1303836/spectraplex,no_pushback,0,ok,0.87,0.78,0.7569,0.6084,1,1,0,0,['inspect_current_activity'],[],True,6,30.1
+case-0020.json,armelhbobdad/bmad-module-skill-forge,no_pushback,0,ok,0.68,0.16,0.4624000000000001,0.0256,1,0,0,5,"['search_history', 'get_episode']",[],True,16,82.5
+case-0021.json,marcus-sa/osabio,no_pushback,0,ok,0.22,0.22,0.0484,0.0484,0,0,0,1,"['search_history', 'get_episode', 'search_history']",[],True,10,36.9
+case-0022.json,JanDeDobbeleer/oh-my-posh,no_pushback,0,ok,0.38,0.32,0.1444,0.1024,0,0,0,4,"['search_history', 'get_episode', 'get_episode']","['5d961c1e-4371-4a75-a5b1-e8bc7c56d71e:107', '8521e3ab-d00f-4fdc-b013-609c00860cc3:81']",True,15,59.0
+case-0023.json,marcus-sa/osabio,no_pushback,0,ok,0.66,0.43,0.43560000000000004,0.18489999999999998,1,0,0,1,"['search_history', 'get_episode', 'get_episode']",['dbdd0602-50e5-4626-8b59-404114088b43:1240'],True,8,35.9
+case-0024.json,DrDonik/ai-recipe-planner,no_pushback,0,ok,0.28,0.14,0.07840000000000001,0.019600000000000003,0,0,0,1,"['search_history', 'get_episode', 'search_history']",[],True,13,217.9
+case-0025.json,BbrSofiane/sof-pi,no_pushback,0,ok,0.62,0.48,0.3844,0.2304,1,0,0,0,"['search_history', 'get_episode', 'get_episode']","['019f1404-872e-7930-bda4-2c3c609e634b:58', '019f1404-872e-7930-bda4-2c3c609e634b:85']",True,8,43.9
+case-0026.json,yash-learner/care_fe,no_pushback,0,ok,0.08,0.16,0.0064,0.0256,0,0,0,4,['search_history'],[],True,12,50.6
+case-0027.json,MandavkarPranjal/prsui,pushback,1,ok,0.91,0.88,0.008099999999999994,0.0144,1,1,0,0,['get_episode'],[],True,7,23.0
+case-0028.json,tuist/tuist,pushback,1,ok,0.08,0.18,0.8464,0.6724000000000001,0,0,0,1,"['search_history', 'get_episode']",['c62c0ce6-7e94-4f0a-935c-c0a360981872:585'],True,12,45.1
+case-0029.json,integrio-intropy/intropy-cli,no_pushback,0,ok,0.62,0.4,0.3844,0.16000000000000003,1,0,1,1,"['search_history', 'get_episode', 'search_history']",[],True,15,64.2
+case-0030.json,schmalle/secman,pushback,1,ok,0.82,0.78,0.03240000000000002,0.04839999999999999,1,1,1,1,"['get_episode', 'get_episode']","['9ee7fcfa-9267-4874-b1f0-59286defcd36:190', 'c25996ae-b8fb-439f-9b33-eed28e2fb984:150']",True,15,56.8
+case-0031.json,PJensen/JSHack,pushback,1,ok,0.28,0.22,0.5184,0.6084,0,0,1,4,"['search_history', 'get_episode', 'search_history', 'get_episode']","['019e663e-8461-70b3-bac7-6096654919df:160', '019e73e9-acfc-7662-a61d-be3fe38dc3d8:156']",True,17,105.6
+case-0032.json,five2seven/stackmap,no_pushback,0,ok,0.14,0.12,0.019600000000000003,0.0144,0,0,0,0,"['search_history', 'get_episode', 'search_history', 'get_episode']","['019fab20-4a1e-70e3-a467-a29016081e71:740', '019fab20-4a1e-70e3-a467-a29016081e71:359']",True,9,45.5
+case-0033.json,chikachow/cyspbot,no_pushback,0,ok,0.86,0.68,0.7395999999999999,0.4624000000000001,1,1,0,1,"['search_history', 'get_episode', 'get_episode', 'search_history']","['019f046d-f5fa-75c3-98e4-fa591d856a51:239', '019f046d-f5fa-75c3-98e4-fa591d856a51:162']",True,9,41.0
+case-0034.json,blittle/pressy,no_pushback,0,ok,0.84,0.72,0.7055999999999999,0.5184,1,1,0,3,"['search_history', 'search_history']",[],True,16,103.6
+case-0035.json,tuist/tuist,no_pushback,0,ok,0.12,0.12,0.0144,0.0144,0,0,0,1,"['search_history', 'get_episode']",[],True,6,27.9
+case-0036.json,malpercio-dev/ezpds,no_pushback,0,ok,0.72,0.76,0.5184,0.5776,1,1,0,3,"['search_history', 'get_episode']",[],True,10,40.7
+case-0037.json,wodsmith/thewodapp,no_pushback,0,ok,0.3,0.43,0.09,0.18489999999999998,0,0,1,3,"['search_history', 'get_episode', 'search_history', 'get_episode']",['ee520aa7-a751-4c55-801e-5de0607a85b0:163'],True,8,30.9
+case-0038.json,dpiatkowski/inception-engine,no_pushback,0,ok,0.25,0.22,0.0625,0.0484,0,0,1,2,"['search_history', 'get_episode', 'get_episode', 'search_history']","['49cc4396-8b52-480d-9dd3-b54698aa924c:123', '41bf4f33-7f4f-4139-8618-37d18128991c:170']",True,18,72.0
+case-0039.json,Safecast/safecast-map-MCP,no_pushback,0,ok,0.68,0.56,0.4624000000000001,0.31360000000000005,1,1,0,5,"['search_history', 'search_history', 'search_history']",[],True,16,188.9
+case-0040.json,yyopc/yyork,no_pushback,0,ok,0.12,0.12,0.0144,0.0144,0,0,0,2,"['search_history', 'get_episode', 'search_history', 'inspect_current_activity']",[],True,15,57.4
+case-0041.json,thedannywahl/pantoken,pushback,1,ok,0.64,0.68,0.1296,0.10239999999999996,1,1,0,4,"['search_history', 'get_episode', 'search_history', 'get_episode']",['4f3348ab-1f38-41f4-a9a1-525113466cf9:443'],True,16,80.8
+case-0042.json,thieso2/Sandcastle,pushback,1,ok,0.78,0.32,0.04839999999999999,0.4623999999999999,1,0,0,3,"['search_history', 'get_episode']",['6c24d9a0-0162-4217-b1bd-449cb8913e1e:84'],True,14,58.6
+case-0043.json,hutusi/amytis,no_pushback,0,ok,0.08,0.08,0.0064,0.0064,0,0,1,1,[],[],True,4,16.9
+case-0044.json,yyopc/yyork,pushback,1,ok,0.7,0.67,0.09000000000000002,0.10889999999999997,1,1,0,2,"['search_history', 'get_episode', 'get_episode', 'get_episode']",[],True,8,43.6
+case-0045.json,wodsmith/thewodapp,no_pushback,0,ok,0.66,0.55,0.43560000000000004,0.30250000000000005,1,1,1,3,"['search_history', 'get_episode']",['ee520aa7-a751-4c55-801e-5de0607a85b0:163'],True,7,28.6
+case-0046.json,PackmindHub/context-evaluator,no_pushback,0,ok,0.25,0.18,0.0625,0.0324,0,0,0,1,"['search_history', 'inspect_current_activity']",[],True,13,57.4
+case-0047.json,Diogenesoftoronto/keating,no_pushback,0,ok,0.38,0.42,0.1444,0.17639999999999997,0,0,1,3,"['inspect_current_activity', 'search_history']",[],True,7,35.4
+case-0048.json,armelhbobdad/bmad-module-skill-forge,no_pushback,0,ok,0.12,0.12,0.0144,0.0144,0,0,0,5,"['search_history', 'get_episode', 'search_history', 'get_episode']",[],True,8,27.1
+case-0049.json,PJensen/JSHack,no_pushback,0,ok,0.22,0.28,0.0484,0.07840000000000001,0,0,1,4,"['search_history', 'search_history', 'get_episode']",['019e6936-63a8-7bf1-8e17-fd8bf440608e:73'],True,8,41.0
+case-0050.json,moltis-org/moltis,no_pushback,0,ok,0.28,0.42,0.07840000000000001,0.17639999999999997,0,0,2,0,"['search_history', 'get_episode', 'search_history', 'get_episode']",[],True,17,78.5
+case-0051.json,s4lly/splitzy,no_pushback,0,ok,0.72,0.32,0.5184,0.1024,1,0,2,1,"['search_history', 'get_episode']",[],True,15,76.1
+case-0052.json,ebridges/wakil,no_pushback,0,ok,0.04,0.18,0.0016,0.0324,0,0,0,3,"['search_history', 'get_episode', 'inspect_current_activity']",['5bea7345-5de7-4124-b605-8ba07bd91721:252'],True,11,54.8
+case-0053.json,wanshicheng/duckdb-data-agent,no_pushback,0,ok,0.42,0.34,0.17639999999999997,0.11560000000000002,0,0,0,1,"['search_history', 'get_episode', 'search_history', 'get_episode']","['d56f3c85-e505-4496-82cf-60534fa9cd02:127', 'd56f3c85-e505-4496-82cf-60534fa9cd02:94']",True,8,39.5
+case-0054.json,wanshicheng/duckdb-data-agent,no_pushback,0,ok,0.12,0.08,0.0144,0.0064,0,0,0,1,"['search_history', 'get_episode', 'get_episode']","['24697137-e990-4015-9647-ffd82579d133:57', '8715a420-3447-4a84-b5e9-a1aae40dcd24:105']",True,7,31.9
+case-0055.json,moltis-org/moltis,no_pushback,0,ok,0.96,0.9,0.9216,0.81,1,1,2,0,"['search_history', 'get_episode']",[],True,7,21.3
+case-0056.json,Diogenesoftoronto/keating,no_pushback,0,ok,0.1,0.78,0.010000000000000002,0.6084,0,1,1,3,"['search_history', 'get_episode', 'search_history']",['1523f2cd-2a23-4d42-a81f-a6ef002bb764:626'],True,8,32.1
+case-0057.json,schmalle/secman,pushback,1,ok,0.38,0.32,0.3844,0.4623999999999999,0,0,1,1,"['search_history', 'get_episode', 'inspect_current_activity', 'get_episode']","['9ee7fcfa-9267-4874-b1f0-59286defcd36:190', 'b8158bec-a768-425e-9f2c-17c660ac784d:292']",True,8,38.6
+case-0058.json,ababushkin/drain-cycle,no_pushback,0,ok,0.79,0.8,0.6241000000000001,0.6400000000000001,1,1,0,5,"['search_history', 'get_episode', 'search_history']",['7ced9f48-65e3-471b-a25d-f3c0956ce6db:806'],True,12,178.2
+case-0059.json,malpercio-dev/ezpds,no_pushback,0,ok,0.72,0.08,0.5184,0.0064,1,0,0,3,"['search_history', 'get_episode', 'get_episode']","['51edb752-2d71-4f7f-ae69-aa630ac6a6fd:1017', '51edb752-2d71-4f7f-ae69-aa630ac6a6fd:790']",True,8,27.9
+case-0060.json,zeodotdev/zeo,pushback,1,ok,0.62,0.62,0.1444,0.1444,1,1,0,4,"['search_history', 'search_history', 'search_history']",[],True,19,117.4
+case-0061.json,armelhbobdad/bmad-module-skill-forge,no_pushback,0,ok,0.14,0.08,0.019600000000000003,0.0064,0,0,0,5,"['search_preferences', 'search_history', 'get_episode']",['6fa436f2-a3cf-4eb7-99fd-260c431f321e:234'],True,8,36.0
+case-0062.json,jdx/mise,no_pushback,0,ok,0.27,0.8,0.0729,0.6400000000000001,0,1,1,1,"['get_episode', 'search_history', 'get_episode']","['019f1fee-351b-7f61-b652-0d62cd621721:78', '019f1fdd-25d6-7772-a211-4d2490625736:276']",True,8,60.1
+case-0063.json,integrio-intropy/intropy-cli,no_pushback,0,ok,0.28,0.34,0.07840000000000001,0.11560000000000002,0,0,1,1,"['search_history', 'get_episode', 'search_history']",['381ab6b7-766c-4045-adf9-095a947ec0a3:94'],True,7,26.6
+case-0064.json,osabiohq/osabio,no_pushback,0,ok,0.78,0.78,0.6084,0.6084,1,1,0,2,"['search_history', 'inspect_current_activity']",[],True,6,24.2
+case-0065.json,blackgirlbytes/planetfall-seed-signalkit,pushback,1,ok,0.24,0.18,0.5776,0.6724000000000001,0,0,0,0,[],[],True,4,22.4
+case-0066.json,SMK1085/paigasus-helikon,no_pushback,0,ok,0.24,0.24,0.0576,0.0576,0,0,1,0,"['search_history', 'get_episode', 'search_history', 'get_episode']",['f1524f9a-e8ab-47e9-be2a-3599d89136df:215'],True,15,77.7
+case-0067.json,lorr1/traffic-simulator,no_pushback,0,ok,0.16,0.12,0.0256,0.0144,0,0,0,1,"['search_history', 'get_episode', 'get_episode', 'get_episode']","['b52f687e-2dcb-4c52-a576-7c04589c874f:60', '49ce3ec4-3d1b-4319-8dfe-d095902a8555:115']",True,17,112.3
+case-0068.json,schmalle/secman,no_pushback,0,ok,0.06,0.06,0.0036,0.0036,0,0,1,1,[],[],True,4,13.7
+case-0069.json,itsmaleen/merry,pushback,1,ok,0.08,0.12,0.8464,0.7744,0,0,2,5,"['search_history', 'search_history']",[],True,6,23.3
+case-0070.json,PJensen/JSHack,no_pushback,0,ok,0.74,0.32,0.5476,0.1024,1,0,1,4,"['inspect_current_activity', 'search_history', 'get_episode']",['019e73e9-acfc-7662-a61d-be3fe38dc3d8:156'],True,8,49.5
+case-0071.json,PackmindHub/context-evaluator,no_pushback,0,ok,0.68,0.24,0.4624000000000001,0.0576,1,0,0,1,"['inspect_current_activity', 'search_history', 'get_episode']",['0fccf939-a272-4ef8-a9d0-01c7df276089:205'],True,8,175.7
+case-0072.json,tkersh/echobase,pushback,1,ok,0.16,0.65,0.7055999999999999,0.12249999999999998,0,1,0,3,"['search_history', 'inspect_current_activity']",[],True,16,76.2
+case-0073.json,thieso2/Sandcastle,no_pushback,0,ok,0.08,0.22,0.0064,0.0484,0,0,0,3,[],[],True,4,25.7
+case-0074.json,SMK1085/paigasus-helikon,no_pushback,0,ok,0.22,0.12,0.0484,0.0144,0,0,1,0,"['search_history', 'get_episode']",[],True,6,26.9
+case-0075.json,five2seven/stackmap,no_pushback,0,ok,0.07,0.14,0.004900000000000001,0.019600000000000003,0,0,0,0,"['inspect_current_activity', 'search_history', 'get_episode']",['019fab20-4a1e-70e3-a467-a29016081e71:472'],True,8,30.7
+case-0076.json,blackgirlbytes/planetfall-seed-signalkit,no_pushback,0,ok,0.12,0.04,0.0144,0.0016,0,0,0,0,['inspect_current_activity'],[],True,5,21.9
+case-0077.json,ElixirTrials/medgemma-hackathon,no_pushback,0,ok,0.82,0.72,0.6723999999999999,0.5184,1,1,2,3,"['search_history', 'search_history', 'search_history', 'get_episode']",[],True,18,93.7
+case-0078.json,fogodev/ars-ui,no_pushback,0,stopped,0.88,,0.7744,,1,,0,0,,,,4,36.1
+case-0079.json,cyyeh/duckdb-data-agent,no_pushback,0,ok,0.2,0.2,0.04000000000000001,0.04000000000000001,0,0,0,0,"['search_history', 'search_history', 'search_history', 'get_episode']",[],True,8,33.9
+case-0080.json,armelhbobdad/bmad-module-skill-forge,no_pushback,0,ok,0.78,0.72,0.6084,0.5184,1,1,0,5,"['search_history', 'get_episode', 'search_history', 'get_episode']","['85e00622-177a-480b-9251-5fac6210171e:145', '85e00622-177a-480b-9251-5fac6210171e:152']",True,9,34.3
+case-0081.json,s4lly/splitzy,no_pushback,0,ok,0.1,0.12,0.010000000000000002,0.0144,0,0,2,1,"['search_history', 'inspect_current_activity']",[],True,6,28.8
+case-0082.json,EntityProcess/agentv,pushback,1,ok,0.12,0.1,0.7744,0.81,0,0,0,2,"['search_history', 'get_episode']",[],True,11,44.8
+case-0083.json,timelabs-npo/rhea-project,no_pushback,0,stopped,0.42,,0.17639999999999997,,0,,0,0,,,,6,47.6
+case-0084.json,fdelbrayelle/ai-watchtower,no_pushback,0,ok,0.84,0.28,0.7055999999999999,0.07840000000000001,1,0,1,5,"['search_history', 'get_episode']",[],True,15,78.1
+case-0085.json,fogodev/ars-ui,no_pushback,0,stopped,0.38,,0.1444,,0,,0,0,,,,8,85.3
+case-0086.json,dpiatkowski/inception-engine,no_pushback,0,ok,0.72,0.7,0.5184,0.48999999999999994,1,1,1,2,"['inspect_current_activity', 'search_history', 'search_history']",[],True,8,35.2
+case-0087.json,niaklabs/nekazaria-demo,no_pushback,0,ok,0.32,0.17,0.1024,0.028900000000000006,0,0,0,0,"['search_history', 'get_episode', 'search_history']",[],True,9,107.7
+case-0088.json,wanshicheng/duckdb-data-agent,no_pushback,0,ok,0.18,0.2,0.0324,0.04000000000000001,0,0,0,1,"['search_history', 'get_episode', 'search_history', 'get_episode']","['8715a420-3447-4a84-b5e9-a1aae40dcd24:105', '24697137-e990-4015-9647-ffd82579d133:70']",True,8,28.5
+case-0089.json,thieso2/Sandcastle,no_pushback,0,ok,0.24,0.16,0.0576,0.0256,0,0,0,3,"['search_history', 'get_episode']",['6c24d9a0-0162-4217-b1bd-449cb8913e1e:117'],True,6,28.2
+case-0090.json,zchee/agent,no_pushback,0,ok,0.12,0.12,0.0144,0.0144,0,0,0,0,"['get_episode', 'inspect_current_activity']",['019d52c4-e2cc-7601-bded-51eb74fef861:103'],True,8,98.6
+case-0091.json,sorrell/webhook-tui,no_pushback,0,ok,0.12,0.12,0.0144,0.0144,0,0,0,3,"['search_history', 'get_episode']",['4a9c72e2-8795-4a9a-8675-9dfd56d4ba02:94'],True,14,55.8
+case-0092.json,blackgirlbytes/planetfall-seed-signalkit,pushback,1,ok,0.18,0.22,0.6724000000000001,0.6084,0,0,0,0,[],[],True,5,18.9
+case-0093.json,armelhbobdad/bmad-module-skill-forge,no_pushback,0,ok,0.62,0.19,0.3844,0.0361,1,0,0,5,"['search_history', 'search_history', 'get_episode']",[],True,8,45.1

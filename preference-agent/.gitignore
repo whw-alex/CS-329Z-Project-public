@@ -1,0 +1,39 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+
+# Local credentials; commit only the empty template.
+.env.*
+!.env.example
+
+# Local conversation cases and inference outputs.
+work/*
+# Relabeling runs (episodes, labels, verification sheets) are shared with the team.
+!work/relabel-pilot/
+!work/relabel-v2-pilot/
+!work/relabel-100/
+!work/k4-30/
+!work/relabel-k4-extra/
+!work/k4-100/
+!work/k4-30-eval-abad101/
+!work/k4-100-eval/
+!work/k4-100-memory-output-retest/
+!work/k4-100-scoped-memory-recovered/
+# Conversation text stays out of the public repository.
+work/**/case-*.json
+work/**/result-*.json
+work/**/baseline-b*-*.json
+work/**/memory-*.json
+work/**/episodes.json*
+work/**/labels.jsonl
+work/**/verify.md
+work/**/*.log
+outputs/
+results/
+data/
+.cache/
+*-result.json
+*-prediction.json
+prediction.json
+paired-result.json

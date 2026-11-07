@@ -1,0 +1,87 @@
+{
+  "groups": 5,
+  "success": 4,
+  "failed": 1,
+  "recovered_target_cases": 8,
+  "remaining_target_cases": 1,
+  "memory_stage_calls": 33,
+  "prediction_calls": 0,
+  "groups_using_split_recovery": 0,
+  "tests_passed": 130,
+  "results": [
+    {
+      "group": 6,
+      "repo": "fogodev/ars-ui",
+      "cases": [
+        78,
+        85
+      ],
+      "status": "ok",
+      "stage_calls": 13,
+      "observed_request_max_tokens": [
+        8192
+      ],
+      "base_lm_max_tokens": 2048,
+      "memory_recoveries": []
+    },
+    {
+      "group": 7,
+      "repo": "PJensen/JSHack",
+      "cases": [
+        31,
+        49,
+        70
+      ],
+      "status": "ok",
+      "stage_calls": 4,
+      "observed_request_max_tokens": [
+        8192
+      ],
+      "base_lm_max_tokens": 2048,
+      "memory_recoveries": []
+    },
+    {
+      "group": 10,
+      "repo": "timelabs-npo/rhea-project",
+      "cases": [
+        83
+      ],
+      "status": "ok",
+      "stage_calls": 12,
+      "observed_request_max_tokens": [
+        8192
+      ],
+      "base_lm_max_tokens": 2048,
+      "memory_recoveries": []
+    },
+    {
+      "group": 16,
+      "repo": "five2seven/stackmap",
+      "cases": [
+        32,
+        75
+      ],
+      "status": "ok",
+      "stage_calls": 2,
+      "observed_request_max_tokens": [
+        8192
+      ],
+      "base_lm_max_tokens": 2048,
+      "memory_recoveries": []
+    },
+    {
+      "group": 39,
+      "repo": "ebridges/wakil",
+      "cases": [
+        52
+      ],
+      "status": "failed",
+      "stage_calls": 2,
+      "observed_request_max_tokens": [
+        8192
+      ],
+      "base_lm_max_tokens": 2048,
+      "memory_recoveries": []
+    }
+  ]
+}

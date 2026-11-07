@@ -1,0 +1,80 @@
+{
+  "episodes": 30,
+  "labelled_ok": 30,
+  "status": {
+    "ok": 30
+  },
+  "model_binary": {
+    "N": 18,
+    "NF": 3,
+    "P": 9
+  },
+  "model_fine_label": {
+    "clarification": 3,
+    "continue": 15,
+    "correction": 4,
+    "failure_report": 4,
+    "none": 3,
+    "rejection": 1
+  },
+  "confidence": {
+    "high": 26,
+    "medium": 4
+  },
+  "with_issues": 0,
+  "swechat_label_to_model_binary": {
+    "correction": {
+      "N": 6,
+      "P": 6
+    },
+    "failure_report": {
+      "N": 1,
+      "NF": 2,
+      "P": 2
+    },
+    "non_pushback": {
+      "N": 9
+    },
+    "rejection": {
+      "N": 2,
+      "NF": 1,
+      "P": 1
+    }
+  },
+  "binary_agreement_with_swechat": {
+    "agree": 18,
+    "of": 27,
+    "rate": 0.667
+  },
+  "agreement_with_human": {
+    "agree": 24,
+    "of": 27,
+    "rate": 0.889,
+    "disagreements": [
+      {
+        "n": 2,
+        "human": "N",
+        "model": "P",
+        "fine": "failure_report"
+      },
+      {
+        "n": 3,
+        "human": "N",
+        "model": "P",
+        "fine": "correction"
+      },
+      {
+        "n": 4,
+        "human": "N",
+        "model": "P",
+        "fine": "correction"
+      },
+      {
+        "n": 26,
+        "human": "AMBIG",
+        "model": "NF",
+        "fine": "none"
+      }
+    ]
+  }
+}

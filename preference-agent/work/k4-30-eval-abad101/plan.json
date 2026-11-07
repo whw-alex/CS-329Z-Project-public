@@ -1,0 +1,58 @@
+{
+  "kind": "relabel",
+  "selection": {
+    "relabel_dir": "work/github-abad101/work/k4-30",
+    "labels_file": "selection.csv",
+    "k": 4,
+    "history_per_session": null,
+    "history_seed": 329,
+    "history_context_chars": 1500,
+    "history_agent_chars": 2500,
+    "history_feedback_chars": 1000,
+    "target_context_chars": 8000,
+    "target_response_chars": 12000,
+    "history_labels": "work/github-abad101/work/k4-30/history/labels.csv",
+    "allow_repo_rename": true
+  },
+  "cases": [
+    "case-0001.json",
+    "case-0002.json",
+    "case-0003.json",
+    "case-0004.json",
+    "case-0005.json",
+    "case-0006.json",
+    "case-0007.json",
+    "case-0008.json",
+    "case-0009.json",
+    "case-0010.json",
+    "case-0011.json",
+    "case-0012.json",
+    "case-0013.json",
+    "case-0014.json",
+    "case-0015.json",
+    "case-0016.json",
+    "case-0017.json",
+    "case-0018.json",
+    "case-0019.json",
+    "case-0020.json",
+    "case-0021.json",
+    "case-0022.json",
+    "case-0023.json",
+    "case-0024.json",
+    "case-0025.json",
+    "case-0026.json",
+    "case-0027.json",
+    "case-0028.json",
+    "case-0029.json",
+    "case-0030.json"
+  ],
+  "skipped": [],
+  "label_counts": {
+    "pushback": 15,
+    "no_pushback": 15
+  },
+  "binary_counts": {
+    "P": 15,
+    "N": 15
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "episodes": 60,
+  "labelled_ok": 60,
+  "status": {
+    "ok": 60
+  },
+  "model_binary": {
+    "N": 40,
+    "NF": 4,
+    "P": 16
+  },
+  "model_fine_label": {
+    "clarification": 6,
+    "continue": 34,
+    "correction": 7,
+    "failure_report": 8,
+    "none": 4,
+    "rejection": 1
+  },
+  "confidence": {
+    "high": 49,
+    "medium": 11
+  },
+  "with_issues": 0,
+  "swechat_label_to_model_binary": {
+    "correction": {
+      "N": 22,
+      "P": 8
+    },
+    "failure_report": {
+      "N": 1,
+      "NF": 1,
+      "P": 7
+    },
+    "non_pushback": {
+      "N": 17,
+      "NF": 3
+    },
+    "rejection": {
+      "P": 1
+    }
+  },
+  "binary_agreement_with_swechat": {
+    "agree": 33,
+    "of": 56,
+    "rate": 0.589
+  }
+}

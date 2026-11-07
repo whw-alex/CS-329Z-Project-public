@@ -1,0 +1,136 @@
+{
+  "source": "work/k4-30/selection.csv",
+  "mode": "history",
+  "n": 449,
+  "seed": 329,
+  "k": 4,
+  "history_sessions_by_repo": {
+    "4gray/iptvnator": [
+      "745b917c-bc7f-40cf-bc40-f057bae1c579",
+      "cbceb4b9-123e-460a-87dc-81d276f1ffd0",
+      "8016a255-0828-4a01-ae11-a955eebf2fb8",
+      "606f4961-fa58-49f9-b523-a5f0795a4e17"
+    ],
+    "Diogenesoftoronto/keating": [
+      "1523f2cd-2a23-4d42-a81f-a6ef002bb764",
+      "0862648d-aa7a-4b70-837f-5f3b8d8a99f8",
+      "8b259f67-2069-44df-96e6-5ac05c22b5b3",
+      "bb04cf16-d6f2-4e1a-a1e4-4d16e78cc7e2"
+    ],
+    "ElixirTrials/medgemma-hackathon": [
+      "8000ab07-b7ed-4807-9480-552b38ab70a2",
+      "ce5385a7-1d35-4fe6-916c-ba8444f6c980",
+      "1b95d379-4f11-4d74-a567-07fd734105c8",
+      "dc4c0931-2d7d-45bb-8f84-e5a7aac83f2f"
+    ],
+    "PJensen/JSHack": [
+      "019e663e-8461-70b3-bac7-6096654919df",
+      "019e6936-63a8-7bf1-8e17-fd8bf440608e",
+      "019e6e52-3049-7291-ad40-b2eaa627c3cc",
+      "019e73e9-acfc-7662-a61d-be3fe38dc3d8"
+    ],
+    "PrairieLearn/PrairieLearn": [
+      "34c0c36e-cfdd-48f4-aa91-c9b2e754b04b",
+      "152ca8ca-a1a6-4173-8c85-ca0877e276f8",
+      "2ce1bb70-f45e-4db6-934f-654c7d77e123",
+      "493b26e9-a4c7-422b-bb80-e1f38f769bf2"
+    ],
+    "SMK1085/paigasus-helikon": [
+      "f1524f9a-e8ab-47e9-be2a-3599d89136df",
+      "1ee872fa-5561-4e3d-979d-eb6039a0c101",
+      "5996175a-a4b4-424d-ad18-d82534fe254e",
+      "c436ccdf-cdfd-494d-9715-9e329a393568"
+    ],
+    "blackgirlbytes/planetfall-seed-signalkit": [
+      "bf0d7da1-e260-41cb-a27d-20b53359d790",
+      "99fd37cf-9dfa-4a2d-b1f8-17dc7da61d9d",
+      "1724749a-c47c-4c19-b52b-6858f322d551",
+      "b3b3fb25-90c3-4a42-bd2c-c831f432c398"
+    ],
+    "blittle/pressy": [
+      "bbcf6632-e298-4d78-8891-fa85cc3af9bd",
+      "7760d207-3d6e-416f-8944-7793cfe648ff",
+      "dbd64d5c-c7b9-462f-98bd-540026a588fa",
+      "004407cd-4bb6-40a4-9ab1-445b085e4dfe"
+    ],
+    "evorto-app/app": [
+      "019d9ffb-4d91-79a1-9cfb-7128aaee13b6",
+      "019e2131-a19f-7ca3-bf4c-734383cff996",
+      "019e0c35-2eca-73c1-8c45-a503c48d2efd",
+      "019e3538-a001-70b3-bd7b-ecb3f9c0ad1b"
+    ],
+    "five2seven/stackmap": [
+      "019fab20-4a1e-70e3-a467-a29016081e71",
+      "019fbf33-a990-7823-b620-d9e1e9ff94a5",
+      "019fbf97-c63e-7bc3-b164-2a5ac843a56b",
+      "019fc3d5-0a98-7ac2-8176-c4c609963d6f"
+    ],
+    "itsmaleen/merry": [
+      "2bbc644e-4302-4967-8dca-f6cc8cafb0e1",
+      "7dd1a321-223e-4b1f-a56f-4bee537cdfad",
+      "8bab940d-bd75-4485-9708-c34c27cd95c4",
+      "e56efd05-1c6f-45f5-b6fc-dd3b4628bdaf"
+    ],
+    "ladislas/mypac": [
+      "019fc7d9-007b-7192-adcc-7bc770fe468a",
+      "019fc7dc-fb95-7610-8904-e3f50fbdee93",
+      "019fc7de-3390-79e0-aafc-08ecd8b1413f",
+      "01a05268-0a6a-7f43-9806-33ddefcfc54d"
+    ],
+    "marcus-sa/osabio": [
+      "b2fed439-f101-43f3-98f5-76aeb201af1d",
+      "575d0a3b-f615-45c5-a0c5-fc246e13ec41",
+      "dbdd0602-50e5-4626-8b59-404114088b43",
+      "da17ba95-666c-4181-ab52-ac0a8c592153"
+    ],
+    "nan-wang/RAG-theory-to-code": [
+      "035dcf13-6364-4a5c-9f27-db5c02997be7",
+      "4e2fa5b8-755f-4ef0-b37b-0232edff554c",
+      "0c202e97-d434-4138-9e4c-afaa0fe1f5cd",
+      "865557b5-b84d-47b7-b6a3-d8f50bb01db3"
+    ],
+    "raman325/lock_code_manager": [
+      "112658aa-8e2f-43a4-9f8b-a690dfce9b04",
+      "98642744-cce1-47af-b53b-e824cd8c45c5",
+      "b1386405-5f79-42e9-a9bf-25375841c5d0",
+      "7c955a97-89aa-424d-84c1-3b2571976d8a"
+    ],
+    "thieso2/Sandcastle": [
+      "27047749-2364-43d7-8ea6-7da6fdfc8f74",
+      "9d43ebb0-29c6-4ae3-b7d4-589a99b85792",
+      "e8d3a73e-71d2-4387-9016-57ac1daeea00",
+      "6c24d9a0-0162-4217-b1bd-449cb8913e1e"
+    ],
+    "wanshicheng/duckdb-data-agent": [
+      "fb3e9437-7ba6-46b7-b4ab-a1626ac4dd10",
+      "8715a420-3447-4a84-b5e9-a1aae40dcd24",
+      "d56f3c85-e505-4496-82cf-60534fa9cd02",
+      "24697137-e990-4015-9647-ffd82579d133"
+    ],
+    "wodsmith/thewodapp": [
+      "6c2e4d72-9227-48c5-818b-34331110fdcd",
+      "ee520aa7-a751-4c55-801e-5de0607a85b0",
+      "bbaf5868-fac4-4d87-9aab-98e3020b6572",
+      "54d68864-f678-4735-8e4f-85e47acb7433"
+    ],
+    "yyopc/yyork": [
+      "019e598b-6676-7712-ac76-d6c5efd2fcba",
+      "019e5996-1247-75a2-80eb-245c129968bb",
+      "019e599f-ce5d-7253-9aff-3c5b8672b78a",
+      "019e5a00-61bc-7920-81d8-4d6397d80c88"
+    ]
+  },
+  "skipped": [],
+  "limits": {
+    "earlier_messages": 10,
+    "earlier_chars": 300,
+    "previous_reply_chars": 1500,
+    "request_chars": 2000,
+    "agent_text_chars": 800,
+    "last_agent_text_chars": 4000,
+    "tool_chars": 200,
+    "max_steps": 40,
+    "reply_chars": 3000
+  },
+  "prompt": "prompts/relabel_pushback.md"
+}

@@ -1,0 +1,39 @@
+{
+  "dataset": "k4-100",
+  "data_commit": "258e65ac9a81881fbad089dfe641d7d84e8cee19",
+  "cases": 93,
+  "repos": 50,
+  "model": "openai/gpt-6-luna",
+  "memory_mode": "session",
+  "agent_workers": 4,
+  "max_calls_per_agent_worker": 400,
+  "baseline_workers": 2,
+  "max_calls_per_baseline_worker": 100,
+  "per_case_calls": 60,
+  "source_sha256": {
+    "relabel_cases.py": "2a3ac78528aa0173c30d52190f5ced69237ab9b034dd7a2ea6f8e0c417906a07",
+    "baselines.py": "6e4d57006a937d8126e91070ed42c82269245e2c5267490e24f927a35a5f35a0",
+    "sessions.py": "6409017d1e23f2ad3bfe3d174b0ad6c726f808869bccc5b003db9056c7b02eac",
+    "react_critic.py": "aa77404bdd82be9a296193f15ccc9164b8a55eef20bc706f9ba13a1394bd9aea",
+    "dspy_backend.py": "f860c4595d914848597f1f902d555889ee7031cef91f8e436306b5cc5723bca9",
+    "relabel.py": "dd607ad336392d27409d0806114e4576bc94152e35b7c30efd1a82440f47c150",
+    "pushback_definition.py": "d9ba58c134c784c1cf8fd17d97b79162cd07e2955ea5f6e9f9c74649d06ea1c4",
+    "batch.py": "ab7150ce539b6e8371c00a8f1f36da23ef2b2d68a1fc36825bd234a48d3fcbd5",
+    "__init__.py": "9a5d69444d6c401553be9dfeee64871a413cf84796ba5aeb082cece4276f1153",
+    "gemini.py": "c5f64a94c6a0492e59b99db3f13d0522129de75c0e32eb7d5a111b42561bcde8",
+    "core.py": "8f48047b3a6364958b32ad92bc8b7063fd01d05d122ffe2666b214d97a8adc6f",
+    "history_tools.py": "0cf290aa89ece1aa025d84dd01378a11e615204eda11578628d6b7f6e536ef2a",
+    "sampling.py": "5f01f4e4b55dda8f3dac3913179fbbcc2254003a56524fe8223ef35d4626ccc7",
+    "evaluate.py": "62af433abd179679d89e3041dad3ca897b3b856a5e235101a0349f664176f098",
+    "demo.py": "98d408336c78a7563de458a82e58c742335e408cd66098a396d5807a0294027a",
+    "paired.py": "0c9fc9b6e8e0afbecfd82a6a60498740d1401b47bfe4ab77ee2f12f29cdaf708",
+    "__main__.py": "291f1a7ee3a04bc32e807c655605ca408061433f422da2b2ae7b3da94f29c5f0",
+    "data.py": "0a83a42968398c0bbeab40d386c658fbc28b86f6424c51bf7f1351886a584680"
+  },
+  "target_counts": {
+    "pushback": 20,
+    "no_pushback": 73
+  },
+  "no_api_relabeling": true,
+  "forecast_retry_policy": "Baseline validation failures retained without retries; ReAct supports one bounded citation repair; memory parse errors retained."
+}

@@ -1,0 +1,22 @@
+{
+  "model": "openai/gpt-6-luna",
+  "rerun_cases": [
+    78,
+    85,
+    31,
+    49,
+    70,
+    83,
+    32,
+    75
+  ],
+  "unchanged_successes": 84,
+  "remaining_memory_failure": [
+    52
+  ],
+  "forecast_call_cap": 12,
+  "max_react_iters": 5,
+  "max_tool_calls": 4,
+  "max_citation_repairs": 1,
+  "note": "Recovery merge, not a fresh full run. Keep 84 original valid forecasts; replace only 8 memory-failed cases using restored memories. No new memory extraction."
+}
